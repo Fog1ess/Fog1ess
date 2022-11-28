@@ -1,6 +1,6 @@
 # Hello world!
 - 👋 I’m Kevin Qi
-- 👀 I’m interested in programming, anime and Riichi Mahjong
+- 👀 I’m interested in programming, anime and gaming
 - 🌱 I’m currently learning CS in Georgetown University
 - 📫 ycqi1112@gmail.com
 
