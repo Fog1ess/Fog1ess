@@ -1,7 +1,6 @@
 # Hello world!
 - 👋 I’m Kevin Qi
 - 👀 I’m interested in programming, anime, and gaming
-- 🌱 I hold a master's degree in CS from Georgetown University
 - 📫 ycqi1112@gmail.com
 
 <!---
